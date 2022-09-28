@@ -1,6 +1,5 @@
 # opsys_Juudas
 
-Tauri Juudas
 Tere!
 
 Mina olen Tauri Juudas ja Tartu Ülikooli Informaatika bakalaureuseõppe 2. aasta tudeng.
