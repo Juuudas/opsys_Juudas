@@ -1,5 +1,5 @@
 1.  Missuguseid õigusi (r,w,x) on Unixis omanikul minimaalselt vaja (`d`  - directory,  `f`  - fail)
-    -   a) kataloogile  `/d`  faili  `/d/f`  lugemiseks ning
+    -   a) kataloogile  `/d`  faili  `/d/f`  lugemiseks ning <br>
 		    **Vastus:** r
     -   b) failile  `/d/f`  faili  `/d/f`  lugemiseks
 		    **Vastus:** r
