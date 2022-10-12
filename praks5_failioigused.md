@@ -16,12 +16,16 @@
 
 4.  Milliseid on minimaalsed õigused (rwx), mis on vajalikud teie tavakasutajal (kuulub gruppi majasisene) (mitte  `root`  või  `peeter`  kasutajal, kausta ja faili omanikud)  `uusfail.txt`  sisu kuvamiseks. Esita ekraanivaade  `id`,  `ls -la`  ja  `cat uusfail.txt`  käskude väljundist tõestamaks lahendust.
 <br> **Vastus:** Vajalik on r
-![Proof](https://i.imgur.com/nO4hs0M.png)
+<img src="https://i.imgur.com/nO4hs0M.png" alt="Proof" width="600"/>
 
 6.  Tehke screenshot tulemusest, kus oleks näha  `hinded.txt`  failiõigused  `ls -la hinded.txt`  ja jukuisa käivituskäsk koos väljundiga ning lisage see oma viki lehele. (teema:  `setuid`  ja  `setgid`.)
 <br> **Vastus:** Lisasin alguses setuid ka hinedJukul.c failile, mitte kohe hindedJukul. See tulemust ei paistnud muutvat.
-![opetaja](https://i.imgur.com/y4bVt9g.png)
-![jukuIsa](https://i.imgur.com/xeKqJia.png)
+
+<img src="https://i.imgur.com/y4bVt9g.png" alt="opetaja" width="600"/>
+
+<img src="https://i.imgur.com/xeKqJia.png" alt="jukuIsa" width="600"/>
+
+
 <br> 7.  Kas  `setuid`  või  `setgid`  kasutamine võib vähendada süsteemi turvalisust? Kui  `JAH`, siis kuidas? kui  `EI`, siis miks ei vähenda?
 <br> **Vastus:** Jah, sest see annab teistele faili jookustamise õigused teise kasutaja alt. 
 <br> 8.  Kirjutage oma viki lehele kõik kasutajaid, kes saavad  `sticky bit`  õigustega  `yhiskaust`  kataloogist nüüd  `peeter`kasutaja loodud faile kustutada. (teema: sticky bit)
