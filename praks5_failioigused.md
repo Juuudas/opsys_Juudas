@@ -1,12 +1,12 @@
 1.  Missuguseid õigusi (r,w,x) on Unixis omanikul minimaalselt vaja (`d`  - directory,  `f`  - fail)
     -   a) kataloogile  `/d`  faili  `/d/f`  lugemiseks ning <br>
-		    **Vastus:** r
+		    **Vastus:** r,x
     -   b) failile  `/d/f`  faili  `/d/f`  lugemiseks <br>
 		    **Vastus:** r
     -   c) kataloogile  `/d`  faili  `/d/f`  kustutamiseks <br>
 		    **Vastus:** w
     -   d) failile  `/d/f`  faili  `/d/f`  kustutamiseks? <br>
-		   **Vastus:** w, x
+		   **Vastus:** w
 		   
 2.  Miks  `chmod a=x skriptifail`ei ole piisav õigus shelli skriptifaili käivitamiseks? Millist õigust lisaks käivitamis-õigusele veel vaja läheb shelli skripti käivitamiseks? Põhjendage lühidalt? <br>
  **Vastus:** chmod a=x skriptifail eemaldab skriptifaililt vaikimisi olevad r,w õigused, mis on vajalikul skriptifaili käivitamiseks. Õigem oleks kasutada a+x, mis lisab vaikimisi r,w juurde ka x õiguse.
@@ -15,7 +15,7 @@
 **Vastus:** See suurendab turvalisust, kui saame reguleerida, kas faili saab lugeda/kirjutada ainult *owner, group* või *others*. Kasutajatel on määratud umask, mis muudab failiõigused vastavalt faili tehes. Nii saame vältida näiteks, et tiimikaaslane ei saaks muuta privaatseid faile.
 
 4.  Milliseid on minimaalsed õigused (rwx), mis on vajalikud teie tavakasutajal (kuulub gruppi majasisene) (mitte  `root`  või  `peeter`  kasutajal, kausta ja faili omanikud)  `uusfail.txt`  sisu kuvamiseks. Esita ekraanivaade  `id`,  `ls -la`  ja  `cat uusfail.txt`  käskude väljundist tõestamaks lahendust.
-<br> **Vastus:** Vajalikud on r, x. 
+<br> **Vastus:** Vajalik on r
 ![Proof](https://i.imgur.com/nO4hs0M.png)
 
 6.  Tehke screenshot tulemusest, kus oleks näha  `hinded.txt`  failiõigused  `ls -la hinded.txt`  ja jukuisa käivituskäsk koos väljundiga ning lisage see oma viki lehele. (teema:  `setuid`  ja  `setgid`.)
