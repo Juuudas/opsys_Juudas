@@ -37,4 +37,4 @@ mask::rw-
 other::---
 
 <br> 10.  Kes saab  `chattr +i`  parameetriga faili sisu modifitseerida (kirjutada)? Milliste käskudega saate kustutada  `testfail-2`nimelise  `+i`  parameetriga faili.
-<br> **Vastus:** 
+<br> **Vastus:** `chattr +i` parameetriga ei saa mitte keegi faili sisu modiftiseerida. M Kustutamiseks on vaja samamoodi kõigepealt eemalda chattr *immutable* atribuut käsuga `sudo chattr -i testfail-2`. Seejärel kustutamiseks `rm testfail-2`.
