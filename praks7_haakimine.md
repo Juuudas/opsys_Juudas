@@ -11,9 +11,9 @@ Enne operatsioonisüsteemi paigaldamist kettale on see samuti vajalik kähtestad
 
 **Vastus:** <br> 1. GBT *bootib* kiiremini kui MBR. <br>
             2. MBR ei toeta üle 2TB. <br>
-            3. GPT saab olla 32 korda rohkem partitsioone kui MBR. GPT saab omada 128, MBR 4. <br>
+            3. GPT saab olla 32 korda rohkem partitsioone kui MBR. GPT saab omada 128, MBR 4. <br> <br>
             
-4. **TÕESTUS** https://kodu.ut.ee/~juudas/hdd.png <br>
+4. **Tõestus** https://kodu.ut.ee/~juudas/hdd.png <br>
 
 
 6.Mida mõjutasid mount käsu parameetrid "-o ro" ja "-t auto"? <br>
