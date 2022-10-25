@@ -17,7 +17,8 @@ Enne operatsioonisüsteemi paigaldamist kettale on see samuti vajalik kähtestad
 
 
 6.Mida mõjutasid mount käsu parameetrid "-o ro" ja "-t auto"? <br>
-
+"-o ro" on sisuliselt -r, --read-only. Ehk see *mountib* failisüsteemi *read-only'* parameetriga. <br>
+"-t auto"
 
 7.mount käsu väljundist leidke üles, mis väärtusega Ubuntu asendas auto parameetri? <br>
 
