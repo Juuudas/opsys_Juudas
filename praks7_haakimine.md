@@ -26,4 +26,4 @@ Enne operatsioonisüsteemi paigaldamist kettale on see samuti vajalik kähtestad
 8.Tehke ekraanipilt /etc/fstab faili sisust pärast iseseisva ülesande lahendamist (või muu tõestus/seadistamise juhend, 
 et 4TB ketas haagitaks automaatselt kausta /mnt/bigdata Ubuntu käivitamisel). <br>
 
-<img src="https://imgur.com/fr9SRdN" alt="screenshot" width="600"/>
+<img src="https://i.imgur.com/fr9SRdN.png" alt="fstab" width="600"/>
