@@ -18,9 +18,12 @@ Enne operatsioonisüsteemi paigaldamist kettale on see samuti vajalik kähtestad
 
 6.Mida mõjutasid mount käsu parameetrid "-o ro" ja "-t auto"? <br>
 "-o ro" on sisuliselt -r, --read-only. Ehk see *mountib* failisüsteemi *read-only'* parameetriga. <br>
-"-t auto"
+"-t auto" valib ise *datatype*. 
 
 7.mount käsu väljundist leidke üles, mis väärtusega Ubuntu asendas auto parameetri? <br>
+**Vastus:** fuseblk <br>
 
 8.Tehke ekraanipilt /etc/fstab faili sisust pärast iseseisva ülesande lahendamist (või muu tõestus/seadistamise juhend, 
-et 4TB ketas haagitaks automaatselt kausta /mnt/bigdata Ubuntu käivitamisel).
+et 4TB ketas haagitaks automaatselt kausta /mnt/bigdata Ubuntu käivitamisel). <br>
+
+<img src="https://imgur.com/fr9SRdN" alt="screenshot" width="600"/>
