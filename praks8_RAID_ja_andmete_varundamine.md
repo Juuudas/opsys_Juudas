@@ -19,6 +19,6 @@
 5. Esitage ekraanivaade tõestamaks, et teil on olemas aktiivne 
 OneDrive failide sünkroniseerimine kohaliku arvuti ja pilveandmete vahel. Settings -> Account vaheleht. <br>
 <br>
-Kuna olen igapäevane MacOS kasutaja pidasin otstarbekaks luua Onedrive siiski personaalsesse arvutisse, kuid paraku ei leidnud ma sellist vaadet kuidagi nagu te soovisite. Lisan pildi, mis võiks sama tõestada.
 <br>
 <img src="https://i.imgur.com/9FVTlRV.png" alt="fstab" width="1200"/>
+<img src="https://i.imgur.com/KhnO58n.png" alt="fstab" width="800"/>
