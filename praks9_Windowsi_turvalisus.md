@@ -8,7 +8,7 @@
 3. Kirjuta praktikumi aruandesse vähemalt 3 soovitust (muudatust), mida Microsoft soovitab Windowsi turve seadete juures parandada, suurendamaks Windows operatsioonisüsteemi turvalisust. Vastus kirjutage võimalikult täpselt, kuid muudatusi endid pole vaja seadistada, sest osad neist pole laboritingimustes virtualiseeritud arvutis- võimalikud või mõistlikud. <br>
 **Vastus:** Windows soovitab häälestada Lunavaratõrje Onedrives. Windows soovitab isoleerida tuumad. Veel soovitab windows turvalisuse huvides ja muude eeliste nägemiseks sisse logida Microsofti kontoga. <br>
 
-4. Vali ise sobiv turvalisusaste ning põhjenda valikut praktikumi aruandes.
+4. Vali ise sobiv turvalisusaste ning põhjenda valikut praktikumi aruandes. <br>
 **Vastus:** Valisin teavita mind alati, kuid ilma töölaua hämardamiseta, sest pean teavitusi siiski olulisteks, et säilitada arvuti turvalisus. 
 Lisaks tahan, et saaksin teavitusi ka Windowsi sätete muutmisel, et olla veendunud siiski muudatuse läbiviimises. Töölaua hämardamine ei ole minu jaoks
 vajalik. 
