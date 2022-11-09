@@ -14,10 +14,13 @@ Lisaks tahan, et saaksin teavitusi ka Windowsi sätete muutmisel, et olla veendu
 vajalik. 
 
 5. Vali veel vähemalt 3 Local Security Policy seadistust, mida tuleks muuta või üle vaadata, et tagada arvutis olevate andmete ja kasutajate isikuandmete kaitse. Põhjenda oma valikuid. <br>
-**Vastus:** <br>
-1. Password must meet complexity requirements - Enabled. Selleks, et kasutaja parool oleks turvaline ja teine töötaja seda hõöpsalt ära ei arvaks. <br>
-2. Minimum password length - 8 characters. Sama põhjendus mis eelmisel. <br>
-3. Interactive logon: Message text for users attempting to log on -	YOUR ACTIONS MAY BE AUDITED!. See on Selleks, et hoiatada/hirmutada töötajaid, et nende tegevus arvutis võib olla jälgitud. See tagaks turvalisema ja töökama keskkonna. <br>
+6. 
+| Password must meet complexity requirements - Enabled                                          | Selleks, et kasutaja parool oleks turvaline ja teine töötaja seda hõöpsalt ära ei arvaks.                                                  |
+|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Minimum password length - 8 characters                                                        | Sama põhjendus mis eelmisel.                                                                                                               |
+| Interactive logon: Message text for users attempting to log on - YOUR ACTIONS MAY BE AUDITED! | See on Selleks, et hoiatada/hirmutada töötajaid, et nende tegevus arvutis võib olla jälgitud. See tagaks turvalisema ja töökama keskkonna. |
+
+<br>
 
 6. Lisa vähemalt 2 ekraanivaatet erinevatest keeluteavituste ja Kasutajakonto kontrolli teavituste kohta. Pildiallkirjas märgi ära, mis kasutajana mis toimingut proovisid teha. <br>
 Proovisin avada faili, mis kuulub teisele kasutajale.
