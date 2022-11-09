@@ -14,6 +14,7 @@ Lisaks tahan, et saaksin teavitusi ka Windowsi sätete muutmisel, et olla veendu
 vajalik. 
 
 5. Vali veel vähemalt 3 Local Security Policy seadistust, mida tuleks muuta või üle vaadata, et tagada arvutis olevate andmete ja kasutajate isikuandmete kaitse. Põhjenda oma valikuid. <br>
+
 | Muudatus                                                                                      | Põhjendus                                                                                                                                  |
 |-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | Password must meet complexity requirements - Enabled                                          | Selleks, et kasutaja parool oleks turvaline ja teine töötaja seda hõöpsalt ära ei arvaks.                                                  |
