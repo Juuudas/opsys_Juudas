@@ -9,7 +9,7 @@ echo "Sisesta matrikli number:"
 read matrikkel
 echo "Sisestati: $nimi $eriala $matrikkel"
 ```
-<img src="https://i.imgur.com/pSQ8WBR.png" alt="fstab" width="600"/>
+<img src="https://i.imgur.com/pSQ8WBR.png" alt="fstab" width="1000"/>
 
 **Ülesanne 4.** 
 ```bash
@@ -24,7 +24,7 @@ do
     fi
 done
 ```
-<img src="https://i.imgur.com/xei8R8O.png" alt="fstab" width="600"/>
+<img src="https://i.imgur.com/xei8R8O.png" alt="fstab" width="1000"/>
 
 **Ülesanne 5.** 
 
@@ -38,7 +38,7 @@ do
 done
 
 ```
-<img src="https://i.imgur.com/HVdl0Mg.png alt="fstab" width="600"/>
+<img src="https://i.imgur.com/HVdl0Mg.png alt="fstab" width="1000"/>
 
 **Ülesanne 6.** 
 ```bash
@@ -58,4 +58,4 @@ vastus=$(astenda 9 5)
 echo "Vastus on: " $vastus
 
 ```
-<img src="https://i.imgur.com/fErphZy.png" alt="fstab" width="600"/>
+<img src="https://i.imgur.com/fErphZy.png" alt="fstab" width="1000"/>
