@@ -1,5 +1,5 @@
 **Ülesanne 3.** 
-```Script
+```bash
 #!/bin/sh
 echo "Sisesta nimi:"
 read nimi
