@@ -38,7 +38,7 @@ do
 done
 
 ```
-<img src="https://i.imgur.com/HVdl0Mg.png alt="fstab" width="1000"/>
+<img src="https://i.imgur.com/HVdl0Mg.png" alt="fstab" width="1000"/>
 
 **Ülesanne 6.** 
 ```bash
