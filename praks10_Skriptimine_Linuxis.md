@@ -11,7 +11,7 @@ echo "Sisestati: $nimi $eriala $matrikkel"
 ```
 
 **Ülesanne 4.** 
-```
+```bash
 #!/bin/bash
 laiend1=$1
 laiend2=$2
@@ -26,7 +26,7 @@ done
 
 **Ülesanne 5.** 
 
-```
+```bash
 #!/bin/bash
 IFS=$'\n'
 nimi=$1
@@ -38,7 +38,7 @@ done
 ```
 
 **Ülesanne 6.** 
-```
+```bash
 #!/bin/bash
 astenda () {
 mitu=$2
