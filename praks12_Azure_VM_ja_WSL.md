@@ -3,7 +3,9 @@
 **Vastus:** Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) are the cloud service providers with the largest market share, collectively capturing over 65% of spending on cloud infrastructure services.
 
 <br>
+
 2. Nimetage 5 eelist, mis on pilveteenustel võrreldes enda teenuste füüsilistel masinatel majutamisega?
+
 <br>
 
 **Vastus:**
