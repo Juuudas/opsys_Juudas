@@ -1,6 +1,6 @@
 1. Nimetage 3 kõige suuremat pilveteenuste pakkujat <br>
 
-**Vastus:** Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) are the cloud service providers with the largest market share, collectively capturing over 65% of spending on cloud infrastructure services.
+**Vastus:** Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** 
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** Pilveteenuse kasutamine ei ole mõistlik kehva internetiga asukohtades. Kui on vaja talletada suure mahutavusega palju faile (lisamälu tulheb tihti tasulise teenusena). Kui vaja hoida olulisi privaatseid faile: privaatsust raske kontrollida, andmed võivad lekkida. 
 
 <br>
 
@@ -24,7 +24,9 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** IaaS (Infrastructure as a Service): lubab organisatsioonidel hallata nende ressursse nagu näiteks internet, serverid, andmemaht jne. 
+PaaS (Platform as a Service): lubab ettevõtetel ja arendajatel hallata ja ehitada lõppkasutajale mõeldud rakendusi.
+SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pilve-põhiseid tööriistu ja rakendusi igapäevaseks kasutamiseks. 
 
 <br>
 
@@ -32,13 +34,13 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** Riigipilv
 
 <br>
 
 6. Mis on Azure Resource Group
 
-<br>
+<br> Iga resurss kuulub Resource Groupi. Resource group on loogiline konteiner, mis laseb hallata kõiki resursse ühe tervikuna. 
 
 **Vastus:**
 
@@ -48,7 +50,7 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** Azure Subscription sarnaneb Resource groupiga. See on ka loogiline konteiner, kuid see assotsiatseerub Resource Group'idega. 
 
 <br>
 
@@ -56,7 +58,7 @@
 
 <br>
 
-**Vastus:**
+**Vastus:** Üksus, mida haldab Azure. Näiteks virtuaalmasin, virtuaalvõrk või _Storage Account_. 
 
 <br>
 
