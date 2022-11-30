@@ -6,9 +6,9 @@
 
 2. Nimetage 5 eelist, mis on pilveteenustel võrreldes enda teenuste füüsilistel masinatel majutamisega?
 
-<br>
+<br> 
 
-**Vastus:** 
+**Vastus:** Pilveteenust on lihtne üles seadistada. Füüsilise serveri soetamine võib olla kallim kui pilveteenuse kuumakse, mis võib alguses olla oluline, mil vahendid on piiratud. Need on üldiselt turvalisemad, näiteks Microsoft kulutab 15 miljardit aastas, et uurida pilveteenuseid ja nende turvariske. Pilveteenuse korral on lihtne kõike _back up'ida_ ja _restoreda_ ning see tagab interneti olemasolu korral muretu töö ükskõik kus maailmas ja millises seadmes. Pilveteenuste puhul on rikke korral andmekadu tõenäoliselt väiksem. 
 
 <br>
 
@@ -40,9 +40,9 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 6. Mis on Azure Resource Group
 
-<br> Iga resurss kuulub Resource Groupi. Resource group on loogiline konteiner, mis laseb hallata kõiki resursse ühe tervikuna. 
+<br> 
 
-**Vastus:**
+**Vastus:** Iga resurss kuulub Resource Groupi. Resource group on loogiline konteiner, mis laseb hallata kõiki resursse ühe tervikuna. 
 
 <br>
 
