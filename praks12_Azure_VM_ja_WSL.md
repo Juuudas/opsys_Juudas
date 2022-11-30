@@ -106,9 +106,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:** ```bash
-#!/bin/sh
-find . -size 1M -name "*.md"```
+**Vastus:** 
 <img src="https://i.imgur.com/pcqYt7S.png" alt="fstab" width="1000"/>
 
 <br>
