@@ -66,7 +66,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** <img src="https://i.imgur.com/ctySiT5.png" alt="fstab" width="1000"/>
 
 <br>
 
@@ -74,7 +74,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** <img src="https://i.imgur.com/TVRQUS5.png" alt="fstab" width="1000"/>
 
 <br>
 
@@ -82,7 +82,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** <img src="https://i.imgur.com/CdsXqo1.png" alt="fstab" width="1000"/>
 
 <br>
 
@@ -90,7 +90,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** See aitab inimestel kasutada Windowsis Linuxi võimekaid tööriistu ilma, et nad peaksid loobuma Windowsi võimalustest. Vähendab survet operatsioonisüsteemi valikul. Pole vajalik jooksutada pidevalt virtuaalmasinaid vms. 
 
 <br>
 
@@ -98,7 +98,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** <img src="https://i.imgur.com/YPxWNFM.png" alt="fstab" width="1000"/>
 
 <br>
 
@@ -106,6 +106,6 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:**
+**Vastus:** <img src="https://i.imgur.com/pcqYt7S.png" alt="fstab" width="1000"/>
 
 <br>
