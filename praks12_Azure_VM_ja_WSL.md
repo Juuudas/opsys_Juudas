@@ -106,7 +106,7 @@ SaaS (Software as a Service): Kõige levinum pilveteenus, pakub kasutajatele pil
 
 <br>
 
-**Vastus:** 
+**Vastus:** Antud skript sobib lahenduseks, kuna teised md failid olid täiesti tühjad.
 <img src="https://i.imgur.com/pcqYt7S.png" alt="fstab" width="1000"/>
 
 <br>
