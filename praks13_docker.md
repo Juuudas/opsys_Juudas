@@ -6,7 +6,8 @@ Docker can build images automatically by reading the instructions from a Dockerf
 A Dockerfile is a text document that contains all the commands a user could call on the command 
 line to assemble an image. This page describes the commands you can use in a Dockerfile.
 
-**Vastus:** Dockerfile: Tekstifail, milles on kõikvõimalikud käsud, mida kasutaja saab välja kutsuda käsureal, et moodustada _image_. 
+**Vastus:** <br>
+Dockerfile: Tekstifail, milles on kõikvõimalikud käsud, mida kasutaja saab välja kutsuda käsureal, et moodustada _image_. 
 Docker saab automaatselt ehitada _image_ lugedes juhised Dockerfile'st. <br>
 Docker Image: Fail, et käivitada koodi Docker Containeris. <br>
 Docker Container: N-ö koht, kus aplikatsioon saab vabalt joosta. <br>
